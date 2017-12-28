@@ -1,0 +1,19 @@
+start_urls = {
+    'vw': 'http://weibo.com/1798750043/fans?refer_flag=1001030101_',
+    'beetle': 'http://weibo.com/1920852635/fans?refer_flag=1001030101_',
+    'mini': 'http://weibo.com/1698265765/fans?refer_flag=1001030101_',
+    'smart': 'http://weibo.com/1667486960/fans?refer_flag=1001030101_',
+    'magotan': 'http://weibo.com/2320075027/fans?refer_flag=1001030101_',
+    'accord': 'http://weibo.com/2722620140/fans?refer_flag=1001030101_',
+    'camry': 'http://weibo.com/2359700944/fans?refer_flag=1001030101_',
+    'mondeo': 'http://weibo.com/1774498791/fans?refer_flag=1001030201_',
+    'faw_atez': 'http://weibo.com/5041537021/fans?refer_flag=1001030201_',
+    'sagitar': 'http://weibo.com/1879279655/fans?refer_flag=1001030201_',
+    'golf': 'http://weibo.com/2465351365/fans?refer_flag=1001030101_',
+    'teana': 'http://weibo.com/2125975485/fans?refer_flag=1001030201_',
+    'spirior': 'http://weibo.com/2811897870/fans?refer_flag=1001030201_',
+    'reiz': 'http://weibo.com/1879950447/fans?refer_flag=1001030201_',
+    'crosstour': 'http://weibo.com/2722660604/fans?refer_flag=1001030201_',
+    'c5': 'http://weibo.com/1886256227/fans?refer_flag=1001030201_',
+    'cc': 'http://weibo.com/1919038681/fans?refer_flag=1001030201_'
+}
